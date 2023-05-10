@@ -16,7 +16,8 @@
         "pycrypto": {
             "python3.10-pycrypto-2.6.1_x86_64.tar.gz": "pycrypto/python3.10-pycrypto-2.6.1_x86_64.tar.gz",
             "python3.9-pycrypto-2.6.1_x86_64.tar.gz": "pycrypto/python3.9-pycrypto-2.6.1_x86_64.tar.gz",
-            "python3.7-pycrypto-2.6.1_x86_64.tar.gz": "pycrypto/python3.7-pycrypto-2.6.1_x86_64.tar.gz"
+            "python3.7-pycrypto-2.6.1_x86_64.tar.gz": "pycrypto/python3.7-pycrypto-2.6.1_x86_64.tar.gz",
+            "python3.8-pycrypto-2.6.1_arm64.tar.gz": "pycrypto/python3.8-pycrypto-2.6.1_arm64.tar.gz"
         },
         "cryptography": {
             "python3.7-cryptography-36.0.1_x86_64.tar.gz": "cryptography/python3.7-cryptography-36.0.1_x86_64.tar.gz",
