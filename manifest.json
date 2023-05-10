@@ -20,6 +20,9 @@
         },
         "cryptography": {
             "python3.7-cryptography-36.0.1_x86_64.tar.gz": "cryptography/python3.7-cryptography-36.0.1_x86_64.tar.gz"
+        },
+        "psycopg2": {
+            "python3.9-psycopg2-2.8.5_x86_64.tar.gz": "psycopg2/python3.9-psycopg2-2.8.5_x86_64.tar.gz"
         }
     }
 }
