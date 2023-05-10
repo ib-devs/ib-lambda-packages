@@ -1,0 +1,7 @@
+{
+    "v1": {
+        "cffi": {
+            "python3.7-cffi-1.15.0_x86_64.tar.gz": "cffi/python3.7-cffi-1.15.0_x86_64.tar.gz"
+        }
+    }
+}
